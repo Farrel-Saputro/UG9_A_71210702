@@ -19,3 +19,4 @@ print("TOTAL ES DOGER       : Rp ", ed1)
 print("TOTAL RUJAK CINGUR   : Rp ", rc1)
 
 print("Jumlah total biaya yang harus dibayar adalah Rp", ib1+ed1+rc1)
+
